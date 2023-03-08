@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+header{
+    font-family: san-serif;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(103, 57, 76);
+    padding: 20px 0 20px 50px;
+
+}
+
+nav{
+    background-color: rgb(193, 193, 193);
+    text-align: right;
+    padding: 20px 0 20px 30px;
+
+}
+
+nav a{
+    color:rgb(20, 17, 30);
+    text-decoration: none;
+    font-size: large;
+    font-family: san-serif;
+    padding-right: 50px;
+
+}
+
+main{
+    background-image: url("img/wlpp1.jpg");
+    text-align: center;
+    color:rgb(255, 255, 255);
+    padding: 13% 0 13% 25px;
+}
+
+.footer{
+    background-color: rgb(184, 180, 180);    
+}
